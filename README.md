@@ -1,8 +1,8 @@
 Retail Sales Forecast Dashboard
+
 📊 An Interactive Machine Learning Dashboard for Predicting Weekly Retail Sales
 
 🔍 Overview
-
 This project provides an AI-powered dashboard that forecasts weekly retail sales using a Random Forest Regression model.
 It allows users to visualize historical sales, forecast future trends, and analyze store-wise performance with interactive visuals.
 
@@ -35,10 +35,5 @@ Deployment: Streamlit Cloud
 Access the deployed app here:
 👉 https://ravena04-retail-sales-forecast-ml-app-e9wbsp.streamlit.app/
 
-📂 Repository Structure
-├── app.py                 # Main Streamlit app  
-├── sales_data.csv         # Dataset used for forecasting  
-├── sales_pipeline.pkl     # Trained model 
-├── requirements.txt       # Dependencies  
-  
+
 
